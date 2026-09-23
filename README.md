@@ -16,6 +16,7 @@ J’aime partir d’un besoin concret, comprendre les données et construire une
 | Projet | Ce que j’ai fait / étudié | État |
 | --- | --- | --- |
 | **[ADS, dossiers médicaux](https://github.com/abdalahghas/ads-dossiers-sante)** | Reconstruction personnelle et complète du projet universitaire **en équipe** avec Flask et PostgreSQL : utilisateurs, patients, consultations, analyses, documents et accès par rôle. Code, tests pytest et README publics. | Projet académique; pas présenté comme logiciel médical déployé. |
+| **[KelUqam, portail étudiant](https://github.com/abdalahghas/keluqam-portail-etudiant)** | Application React/TypeScript de planification étudiante : horaire hebdomadaire, cours et syllabi, tâches et ressources, persistance locale. Tests et README publics. | Démonstration autonome; aucune intégration aux systèmes UQAM ni aux notes officielles. |
 | **[Mr Clean+](https://github.com/abdalahghas/Mrclean)** | Travail autour d’un site bilingue pour une entreprise de nettoyage à Montréal. | Le dépôt public ne contient actuellement qu’une partie des fichiers de configuration et de la documentation, **pas le code complet du site**. |
 | **Imayan** | Prototype web de catalogue et de scénarios originaux inspirés de l’univers touareg. | Projet en développement; les animations et la provenance des récits ne sont pas présentées comme finalisées. |
 
